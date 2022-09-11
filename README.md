@@ -2,7 +2,7 @@
 
     💼 Trabalho na Quality Premier como Analista de suporte Pleno;
     🎓 Estudo Analise e Desenvolvimento de sistemas;
-    📹 criador de conteúdo de tecnologia e programador inciante!;
+    📹 criador de conteúdo de tecnologia e programador iniciante!;
     📌 Ps, as liguagens abaixo não necessariamente eu sei programar.. Maas me virar shuhushus;
 
 <div align="center">
