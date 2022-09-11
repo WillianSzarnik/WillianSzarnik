@@ -3,6 +3,7 @@
 <div align="center">
   <a href="https://github.com/WillianSzarnik">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianSzarnik&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://yt3.ggpht.com/ytc/AMLnZu-rZBfzUN99kvMuB2EXIzzQYmnQileUlGiBzZgo9w=s600-c-k-c0x00ffffff-no-rj-rp-mo">
 <div style="display: inline_block"><br>
   <img align="center" alt="Wil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,7 +12,6 @@
   <img align="center" alt="Wil-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
   <img align="center" alt="Wil-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Wil-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://yt3.ggpht.com/ytc/AMLnZu-rZBfzUN99kvMuB2EXIzzQYmnQileUlGiBzZgo9w=s600-c-k-c0x00ffffff-no-rj-rp-mo">
 </div>
  </p>
 <div> 
