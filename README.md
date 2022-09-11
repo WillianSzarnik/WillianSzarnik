@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/WillianSzarnik">
-     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://yt3.ggpht.com/ytc/AMLnZu-rZBfzUN99kvMuB2EXIzzQYmnQileUlGiBzZgo9w=s600-c-k-c0x00ffffff-no-rj-rp-mo">
+     <img align="right" alt="https://uploaddeimagens.com.br/imagens/4JtjuxE">
 <div style="display: inline_block"><br>
   <img align="center" alt="Wil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
