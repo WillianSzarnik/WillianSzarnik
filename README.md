@@ -7,7 +7,6 @@
 
 <div align="center">
   <a href="https://github.com/WillianSzarnik">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianSzarnik&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://yt3.ggpht.com/ytc/AMLnZu-rZBfzUN99kvMuB2EXIzzQYmnQileUlGiBzZgo9w=s600-c-k-c0x00ffffff-no-rj-rp-mo">
 <div style="display: inline_block"><br>
   <img align="center" alt="Wil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
