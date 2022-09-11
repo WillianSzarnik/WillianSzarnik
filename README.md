@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/WillianSzarnik">
-     <img align="right" alt="https://uploaddeimagens.com.br/imagens/4JtjuxE">
+     <img align="right" alt="https://uploaddeimagens.com.br/images/004/017/769/full/Banner_-_Copia.jpg?1662862862">
 <div style="display: inline_block"><br>
   <img align="center" alt="Wil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
