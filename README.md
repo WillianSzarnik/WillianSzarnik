@@ -1,6 +1,6 @@
 ## Oiii eu sou Willian Szarnik!
 
-    💼 Trabalho na Quality Premier como Analista de suporte;
+    💼 Trabalho na Unidas como Analista de suporte;
     🎓 Estudo Analise e Desenvolvimento de sistemas;
     📹 criador de conteúdo de tecnologia e programador iniciante!;
     📌 Ps, as liguagens abaixo não necessariamente eu sei programar.. Maas me virar shuhushus;
