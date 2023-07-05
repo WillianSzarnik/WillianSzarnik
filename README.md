@@ -1,8 +1,8 @@
 ## Oiii eu sou Willian Szarnik!
 
-    💼 Trabalho na Unidas como Analista de suporte;
+    💼 Trabalho na Consultor Sap;
     🎓 Estudo Analise e Desenvolvimento de sistemas;
-    📹 criador de conteúdo de tecnologia e programador iniciante!;
+    📹 criador de conteúdo de tecnologia e programador!;
     📌 Ps, as liguagens abaixo não necessariamente eu sei programar.. Maas me virar shuhushus;
 
 <div align="center">
