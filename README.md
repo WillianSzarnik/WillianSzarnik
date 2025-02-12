@@ -1,9 +1,9 @@
 ## Fala my Witch! Seja bem vindo me chamo Willian Szarnik!
 
     💼 Trabalho na Consultor Sap;
-    🎓 Estudo Analise e Desenvolvimento de sistemas;
+    🎓 Formado em Analise e Desenvolvimento de sistemas;
     📹 criador de conteúdo de tecnologia e programador!;
-    📌 Ps, as liguagens abaixo não necessariamente eu sei programar.. Maas me virar shuhushus;
+  
 
 <div align="center">
   <a href="https://github.com/WillianSzarnik">
